@@ -2,4 +2,5 @@
 python/leap/.cache/
 *.iml
 python/.idea/
+.cache/
 python/hello-world/.cache/
