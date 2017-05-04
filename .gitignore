@@ -1,10 +1,8 @@
 *.pyc
 *.iml
 .cache/
-*.keep
-python/leap/.cache/
 python/.idea/
-python/hello-world/.cache/
-scala/hello-world/\.idea/*
-scala/hello-world/project/target/*
-scala/hello-world/target/*
+python/*/.cache/
+scala/*/\.idea/*
+scala/*/project/*
+scala/*/target/*
