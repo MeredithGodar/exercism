@@ -1,6 +1,7 @@
 *.pyc
 *.iml
 .cache/
+*.keep
 python/leap/.cache/
 python/.idea/
 python/hello-world/.cache/
